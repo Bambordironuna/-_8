@@ -1,0 +1,7 @@
+D:\Users\1213-7\Documents\2-ИСПд\Дисциплина\Метлева В.Д\практическая 888\bin\Debug\практическая 888.exe.config
+D:\Users\1213-7\Documents\2-ИСПд\Дисциплина\Метлева В.Д\практическая 888\bin\Debug\практическая 888.exe
+D:\Users\1213-7\Documents\2-ИСПд\Дисциплина\Метлева В.Д\практическая 888\bin\Debug\практическая 888.pdb
+D:\Users\1213-7\Documents\2-ИСПд\Дисциплина\Метлева В.Д\практическая 888\obj\Debug\практическая 888.csproj.AssemblyReference.cache
+D:\Users\1213-7\Documents\2-ИСПд\Дисциплина\Метлева В.Д\практическая 888\obj\Debug\практическая 888.csproj.CoreCompileInputs.cache
+D:\Users\1213-7\Documents\2-ИСПд\Дисциплина\Метлева В.Д\практическая 888\obj\Debug\практическая 888.exe
+D:\Users\1213-7\Documents\2-ИСПд\Дисциплина\Метлева В.Д\практическая 888\obj\Debug\практическая 888.pdb
